@@ -1,7 +1,7 @@
 ###Sublimit Text Plug-in:
 ##I use the most:
-   Emment:one of the most popular plugins for editors
-  <br> ***AutoFileName：***auto File name
-  <br> ***HTML-CSS-JS Pretty：***format  your HTML、CSS、javascript and JSON code
+   <strong>Emment:</strong>one of the most popular plugins for editors
+  <br> <strong>AutoFileName：</strong>auto File name
+  <br> <strong>HTML-CSS-JS Pretty：</strong>format  your HTML、CSS、javascript and JSON code
 ##Sublimit Text Theme:
-  itg.flat：beautiful
+ <strong> itg.flat：</strong>beautiful
