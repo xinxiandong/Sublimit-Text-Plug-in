@@ -7,4 +7,4 @@ I use the most:
   ~AutoFileName：auto File name
   ~HTML-CSS-JS Pretty：format  your HTML、CSS、javascript and JSON code
 Sublimit Text Theme:
-  ~itg.flat
+  ~itg.flat：beautiful
